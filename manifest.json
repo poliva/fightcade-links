@@ -1,6 +1,6 @@
 {
   "name": "fightcade-links",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 2,
   "description": "Converts fightcade challenge IDs to clickable links",
   "icons": { "16": "icon16.png",
